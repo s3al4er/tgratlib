@@ -14,3 +14,5 @@ tgratlib.createrat(TOKEN="YOUR_BOT_TOKEN", ADMIN_ID=123456789, ADMIN_CHAT_ID=123
 В параметр ADMIN_CHAT_ID нужно поместить ваш chat id.
 
 Получить последние два параметра можно в @getmyid_bot.
+
+Автор не несёт ответственности за ваши действия!
